@@ -23,4 +23,4 @@ pip install opencv-python pydicom scikit-image matplotlib numpy scipy tqdm panda
 ### How to run
 PIP Percentile Optimizer, PIP Generator, and the Papillary Plexus Analyzer can be run in interactive mode or using the command line. A trained segmentation model is included. 
 
-Segmentation Model Trainer can be run using the command line. The dataset is included. 
+Segmentation Model Trainer can be run using the command line.
