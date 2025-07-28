@@ -1,4 +1,4 @@
-# OCTA_Vascular_Analysis
+# OCTA Vascular Analysis
 This repository contains Python code developed as part of the thesis:
 
 **"Assessing the stimulated dynamic response of cutaneous microvasculature using optical coherence tomography angiography."**
